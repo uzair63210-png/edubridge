@@ -1,0 +1,5 @@
+{
+  "name": "EduBridge - School Management System",
+  "description": "A comprehensive system for government schools to manage student records, including skills, scores, and attendance. It facilitates digital document generation (transfers, certificates) and fee payments, enhancing school administration and parent-teacher communication.",
+  "requestFramePermissions": []
+}
